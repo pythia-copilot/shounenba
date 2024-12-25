@@ -4,4 +4,4 @@ Shounenba leverages the power of OpenAI's ChatGPT to provide instant, reliable a
 
 ## Introduction
 
-![Tkinter Interface](shounenba/1.png)
+![Tkinter Interface](/1.png)
