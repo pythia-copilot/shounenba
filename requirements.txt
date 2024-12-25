@@ -1,0 +1,5 @@
+aiohttp==3.10.6
+openai==1.58.1
+PyAudio==0.2.14
+tkmacosx==1.0.5
+websockets==13.1
