@@ -31,6 +31,6 @@ pip (Python package installer) <br />
 
 ## Clone the Repository:
 
-'''
+'''bash
 git clone
 '''
