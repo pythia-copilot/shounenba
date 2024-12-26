@@ -24,6 +24,8 @@ Before you begin, ensure you have the following installed on your system:
 Python <br />
 git <br />
 pip (Python package installer) <br />
+<br />
+And of course, an API key from [Openai](https://platform.openai.com/) and [Deepgram](https://deepgram.com).
 
 ## Installation
 
@@ -60,8 +62,17 @@ Right-click your new [Multi-Output Device](https://github.com/ExistentialAudio/B
 Setting Up VB-CABLE for Windows: <br />
 visit [VB-Cable](https://vb-audio.com/Cable/index.htm) or other virtual audio cable and install. <br />
 Configure VB-CABLE  <br />
+Notice Windows users may need to configure receive.py as well. <br />
 
-  
- 
+## Run the app
+
+```bash
+cd Shounenba
+python main.py
+```
+
+## Interact with Shounenba
+Reset Transcript: reset transcript buffer <br />
+Send: Send transcript buffer, and reset it
 
 
