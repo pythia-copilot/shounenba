@@ -23,8 +23,14 @@ Before you begin, ensure you have the following installed on your system:
 
 Python <br />
 git <br />
-pip (Python package installer)
+pip (Python package installer) <br />
+[Blackhole(if you are using MacOS)](https://github.com/ExistentialAudio/BlackHole)
+
 
 ## Installation
 
-##
+## Clone the Repository:
+
+'''
+git clone
+'''
