@@ -21,8 +21,8 @@ Shounenba is a Python Tkinter-based application designed to transform the remote
 
 Before you begin, ensure you have the following installed on your system:
 
-Python 
-git
+Python <br />
+git <br />
 pip (Python package installer)
 
 ## Installation
