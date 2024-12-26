@@ -51,7 +51,7 @@ Or manually setup in process.py line 11 and reveive.py line 219.
 
 ## Configuration
 
-###Setting Up BlackHole for Mac: <br />
+### Setting Up BlackHole for Mac: <br />
 <br />
 visit [Blackhole](https://github.com/ExistentialAudio/BlackHole) and install. <br />
 Set Up Multi-Output Device: <br />
@@ -59,7 +59,7 @@ Right-click your new [Multi-Output Device](https://github.com/ExistentialAudio/B
 <br />
 <br />
 
-###Setting Up VB-CABLE for Windows: <br />
+### Setting Up VB-CABLE for Windows: <br />
 <br />
 visit [VB-Cable](https://vb-audio.com/Cable/index.htm) or other virtual audio cable and install. <br />
 Configure VB-CABLE  <br />
