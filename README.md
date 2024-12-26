@@ -67,7 +67,7 @@ Notice Windows users may need to configure receive.py as well. <br />
 ## Run the app
 
 ```bash
-cd Shounenba
+cd shounenba
 python main.py
 ```
 
