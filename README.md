@@ -29,19 +29,19 @@ And of course, an API key from [Openai](https://platform.openai.com/) and [Deepg
 
 ## Installation
 
-## Clone or download the Repository:
+### Clone or download the Repository:
 
 ```bash
 git clone https://github.com/pythia-copilot/shounenba.git
 ```
 
-## Install Dependencies:
+### Install Dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Create a Virtual Environment (optional but recommended):
+### Create a Virtual Environment (optional but recommended):
 
 ```bash
 python3 -m venv venv
