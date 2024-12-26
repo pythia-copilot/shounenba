@@ -75,4 +75,6 @@ python main.py
 Reset Transcript: reset transcript buffer <br />
 Send: Send transcript buffer, and reset it
 
+## Disclaimer
 
+Shounenba is a satirical art project and is not intended for use in real-world settings. It may generate incorrect or inappropriate solutions. Users should exercise caution and take responsibility for the information provided by the app.
