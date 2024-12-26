@@ -24,13 +24,34 @@ Before you begin, ensure you have the following installed on your system:
 Python <br />
 git <br />
 pip (Python package installer) <br />
-[Blackhole(if you are using MacOS)](https://github.com/ExistentialAudio/BlackHole)
-
 
 ## Installation
 
-## Clone the Repository:
+## Clone or download the Repository:
 
 ```bash
-git clone
+git clone https://github.com/pythia-copilot/shounenba.git
 ```
+
+## Install Dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Create a Virtual Environment (optional but recommended):
+
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+Or manually setup in process.py line 11 and reveive.py line 219.
+
+## Configuration
+
+Setting Up BlackHole for Mac <br />
+visit [Blackhole](https://github.com/ExistentialAudio/BlackHole) and install <br />
+Set Up Multi-Output Device: <br />
+Right-click your new Multi-Output Device and select 'Use This Device For Sound Output'.
+
+
